@@ -42,4 +42,4 @@ Profile-Kabupaten-Sukabumi/
 ```
 
 ## 👨‍💻 Pembuat
-Dibuat oleh **Ferdian** sebagai bagian dari portofolio atau tugas kelas di Dicoding.
+Dibuat oleh **Ferdian** mahasiswa Sistem Informasi sebagai bagian dari portofolio atau tugas kelas di Dicoding.
